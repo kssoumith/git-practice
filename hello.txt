@@ -1,7 +1,2 @@
-my first git project
-iam learning git
-experimental version
-feature branch practice
-this is a conflict branch
-this is a main branch
 MAIN BRANCH VERSION
+CONFLICT BRANCH VERSION
